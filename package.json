@@ -1,0 +1,10 @@
+{
+  "name": "funding-timeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leanstartupfund/funding-timeline",
+  "author": "James Lee <uptownhr@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["startup"]
+}
